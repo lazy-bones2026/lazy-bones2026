@@ -1,4 +1,8 @@
 <div align="center">
+    <img src="https://github.com/lazy-bones2026/lazy-bones2026/blob/main/images/python.png" width="80%" >
+	<br><br>
+</div>
+<div align="center">
     <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
     <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
     <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
