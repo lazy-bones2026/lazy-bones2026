@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
+    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
+    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
+</div>
+<div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif"
+        height="140"></div>
 
-<!--
-**lazy-bones2026/lazy-bones2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<pre>
+    💼 BSC @ UIT • Fresher • AI Enthusiast
+    💻 Python • DSA • System Architecture
+    📖 LLMs • Predictive Modelling • Applied ML • DL  
+    🎮 Algorithmic Trading • Back Testing 
+</pre>
+</div>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img
+            src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=2000&color=F7A4E9&width=435&lines=++++++%F0%9F%8C%B8Have+a+lovely+day%F0%9F%8C%B8"
+            width="60%" alt="Typing SVG" /></a>
+</div>
