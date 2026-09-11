@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/lazy-bones2026/lazy-bones2026/blob/main/images/python.png" width="80%" >
+    <img src="https://github.com/lazy-bones2026/lazy-bones2026/blob/main/images/Pasted%20image.png" width="100%" >
 	<br><br>
 </div>
 <div align="center">
